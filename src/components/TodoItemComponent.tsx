@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
         borderWidth: 1,
         margin: 10,
         borderRadius: 20,
-        backgroundColor: '#00ffff',
+        backgroundColor: '#00ffff44',
     },
 
     taskLabel: {
@@ -86,7 +86,6 @@ const styles = StyleSheet.create({
     taskDone: {
         textDecorationLine: 'line-through'
     },
-
     deleteButton: {
         backgroundColor: '#ff0000',
         padding: 10,
